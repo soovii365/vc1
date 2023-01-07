@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://cpgiftcardrules.dja.com/sitemap.xml
+Sitemap: https://cndt2020.cloudnativedays.jp/sitemap.xml
